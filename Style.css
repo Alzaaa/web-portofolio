@@ -1,0 +1,18 @@
+.jumbotron img{
+width: 200px;
+height: 200px;
+}
+.jumbotron {
+    background-color: yellowgreen;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: greenyellow;
+}
+.judul {
+    text-align: center;
+}
+.judul {
+    width: 100px;
+}
